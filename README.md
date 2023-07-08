@@ -1,0 +1,5 @@
+- 👋 Hello, I am Firdavs Abdurasulov
+- 👀 I am interested in python programming language, Telegram bots, Django framework
+- 🌱 I'm currently learning how to create a telegram bot in the python programming language
+- 💞️ I want to cooperate with skilled python programmers
+- 📫 You can contact me via Telegram messenger
